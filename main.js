@@ -29,7 +29,7 @@ let EmailSubject = "给宝宝的贴心小提醒";
 
 //每日发送时间
 let EmailHour = 15;
-let EmialMinminute= 38;
+let EmialMinminute= 45;
 
 // 爬取数据的url
 const OneUrl = "http://wufazhuce.com/";
