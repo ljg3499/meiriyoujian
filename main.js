@@ -23,13 +23,13 @@ let EmianService = "QQ";
 let EmailFrom = '"ljg3499" <1843018044@qq.com>';
 
 //接收者邮箱地
-let EmailTo = "2023237504@qq.com";
+let EmailTo = "2990942361@qq.com";
 //邮件主题
 let EmailSubject = "给宝宝的贴心小提醒";
 
 //每日发送时间
-let EmailHour = 14;
-let EmialMinminute= 47;
+let EmailHour = 15;
+let EmialMinminute= 35;
 
 // 爬取数据的url
 const OneUrl = "http://wufazhuce.com/";
